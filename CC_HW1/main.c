@@ -1,4 +1,4 @@
-// Authors - Maor Naftali (ID #########) and Yuval Kogan (ID 310596424)
+// Authors - Maor Naftali (ID 205882699) and Yuval Kogan (ID 310596424)
 // Project - DNS Client
 // Description - main file of the DNS Client - include headers and call main functions
 
